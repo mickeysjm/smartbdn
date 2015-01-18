@@ -263,14 +263,14 @@
 	.boxB,
 	.boxC
 	{
-		width: 320px;
+		width: 330px;
 	}
 
 	.boxA,
 	.boxB
 	{
 		float: left;
-		margin-right: 20px;
+		margin-right: 70px;
 	}
 	
 	.boxC
